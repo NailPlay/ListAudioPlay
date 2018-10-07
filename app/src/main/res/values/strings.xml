@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Audio Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">Error</string>
+    <string name="preset">Сейчас проигрывается: </string>
+    <string name="hello">Добро пожаловать!</string>
+</resources>
